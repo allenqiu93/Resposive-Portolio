@@ -1,0 +1,500 @@
+@media screen and (max-width: 640px) {
+ 
+	*{
+        margin:0;
+        padding:0;
+    }
+    .container{
+        background-color:#4aaaab;
+    }
+    .container h1{
+        color:white;
+        text-align:center;
+        padding:0.7em;
+    }
+    .navbar li{
+        font-size:18px;
+        text-align:center;
+        margin-top:3%;
+        margin-bottom:3%;
+
+    }
+    .navbar li a{
+        color:grey;
+        text-decoration: none;
+        padding-right:3%;
+    }
+    .container2{
+        background-color:lightgrey;
+        height:580px;
+        border-bottom:#4aaaa5 solid 3px;
+    }
+    .container2 .white{
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .white h2{
+      color:#4aaaab; 
+      position: relative;
+      top:3%;
+      left:3%;
+      border-bottom: lightgrey solid 2px;
+      margin-right:5%;
+    
+    }
+    .white img{
+        width:90%;
+        position: absolute;
+        top:11%;
+        left:5%;
+    }
+    .white p{
+        color:grey;
+        line-height:1.6;
+        position: relative;
+        top:45%;
+        width:90%;
+        left:5%;
+    }
+    footer{
+        background-color:grey;
+        height:50px;
+        color:white;
+        font-size:10px;
+    }
+    footer h2{
+        text-align: center;
+        position: relative;
+    }
+    .one{
+        margin-top:10%;
+        margin-left:3%;
+        color:grey;
+    }
+    .one h3{
+        margin-top:5%;
+    }
+    .one input{
+        width:60%;
+        height:20px;
+    }
+    .one .message{
+        height:60px;
+    }
+    .hey{
+        margin-top:5%;
+    }
+   button{
+        background-color:#4aaaa5;
+        padding:0.7em;
+        color:white;
+    }
+    .container2 .white1{
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .container2 .white1{
+        overflow:auto;
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .white1 h2{
+        color:#4aaaab;
+        margin-left:3%;
+        margin-top:3%;
+    }
+    .white1 img{
+        width:90%;
+        margin-top:3%;
+        margin-left:2%;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+ 
+	*{
+        margin:0;
+        padding:0;
+    }
+    .container{
+        background-color:white;
+        margin:0;
+        padding:0;
+    }
+    .container h1{
+        background-color:#4aaaab;
+        width:15%;
+        color:white;
+        text-align:center;
+        float:left;
+    }
+    .navbar li{
+        font-size:18px;
+        text-align:center;
+        list-style-type: none;
+    }
+    .navbar li a{
+        color:grey;
+        text-decoration: none;
+        padding-right:3%;
+    }
+    .container2{
+        background-color:lightgrey;
+        height:580px;
+        border-bottom:#4aaaa5 solid 3px;
+    }
+    .container2 .white{
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .white h2{
+      color:#4aaaab; 
+      position: relative;
+      top:3%;
+      left:3%;
+      border-bottom: lightgrey solid 2px;
+      margin-right:5%;
+    
+    }
+    .white img{
+        width:90%;
+        position: absolute;
+        top:11%;
+        left:5%;
+    }
+    .white p{
+        color:grey;
+        line-height:1.6;
+        position: relative;
+        top:45%;
+        width:90%;
+        left:5%;
+    }
+    footer{
+        background-color:grey;
+        height:50px;
+        color:white;
+        font-size:10px;
+    }
+    footer h2{
+        text-align: center;
+        position: relative;
+    }
+    .one{
+        margin-top:10%;
+        margin-left:3%;
+        color:grey;
+    }
+    .one h3{
+        margin-top:5%;
+    }
+    .one input{
+        width:60%;
+        height:20px;
+    }
+    .one .message{
+        height:60px;
+    }
+    .hey{
+        margin-top:5%;
+    }
+   button{
+        background-color:#4aaaa5;
+        padding:0.7em;
+        color:white;
+    }
+    .container2 .white1{
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .container2 .white1{
+        overflow:auto;
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .white1 h2{
+        color:#4aaaab;
+        margin-left:3%;
+        margin-top:3%;
+    }
+    .white1 img{
+        width:90%;
+        margin-top:3%;
+        margin-left:2%;
+    }
+}
+
+
+
+@media screen and (min-width: 980px) {
+ 
+	*{
+        margin:0;
+        padding:0;
+    }
+    .container{
+        background-color:#4aaaab;
+    }
+    .container h1{
+        color:white;
+        text-align:center;
+        padding:0.7em;
+    }
+    .navbar li{
+        font-size:18px;
+        text-align:center;
+        margin-top:3%;
+        margin-bottom:3%;
+
+    }
+    .navbar li a{
+        color:grey;
+        text-decoration: none;
+        padding-right:3%;
+    }
+    .container2{
+        background-color:lightgrey;
+        height:580px;
+        border-bottom:#4aaaa5 solid 3px;
+    }
+    .container2 .white{
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .white h2{
+      color:#4aaaab; 
+      position: relative;
+      top:3%;
+      left:3%;
+      border-bottom: lightgrey solid 2px;
+      margin-right:5%;
+    
+    }
+    .white img{
+        width:90%;
+        position: absolute;
+        top:11%;
+        left:5%;
+    }
+    .white p{
+        color:grey;
+        line-height:1.6;
+        position: relative;
+        top:45%;
+        width:90%;
+        left:5%;
+    }
+    footer{
+        background-color:grey;
+        height:50px;
+        color:white;
+        font-size:10px;
+    }
+    footer h2{
+        text-align: center;
+        position: relative;
+    }
+    .one{
+        margin-top:10%;
+        margin-left:3%;
+        color:grey;
+    }
+    .one h3{
+        margin-top:5%;
+    }
+    .one input{
+        width:60%;
+        height:20px;
+    }
+    .one .message{
+        height:60px;
+    }
+    .hey{
+        margin-top:5%;
+    }
+   button{
+        background-color:#4aaaa5;
+        padding:0.7em;
+        color:white;
+    }
+    .container2 .white1{
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .container2 .white1{
+        overflow:auto;
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .white1 h2{
+        color:#4aaaab;
+        margin-left:3%;
+        margin-top:3%;
+    }
+    .white1 img{
+        width:90%;
+        margin-top:3%;
+        margin-left:2%;
+    }
+}
+
+@media screen and (max-width: 980px) {
+ 
+	*{
+        margin:0;
+        padding:0;
+    }
+    .container{
+        background-color:#4aaaab;
+    }
+    .container h1{
+        color:white;
+        text-align:center;
+        padding:0.7em;
+    }
+    .navbar li{
+        font-size:18px;
+        text-align:center;
+        margin-top:3%;
+        margin-bottom:3%;
+
+    }
+    .navbar li a{
+        color:grey;
+        text-decoration: none;
+        padding-right:3%;
+    }
+    .container2{
+        background-color:lightgrey;
+        height:580px;
+        border-bottom:#4aaaa5 solid 3px;
+    }
+    .container2 .white{
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .white h2{
+      color:#4aaaab; 
+      position: relative;
+      top:3%;
+      left:3%;
+      border-bottom: lightgrey solid 2px;
+      margin-right:5%;
+    
+    }
+    .white img{
+        width:90%;
+        position: absolute;
+        top:11%;
+        left:5%;
+    }
+    .white p{
+        color:grey;
+        line-height:1.6;
+        position: relative;
+        top:45%;
+        width:90%;
+        left:5%;
+    }
+    footer{
+        background-color:grey;
+        height:50px;
+        color:white;
+        font-size:10px;
+    }
+    footer h2{
+        text-align: center;
+        position: relative;
+    }
+    .one{
+        margin-top:10%;
+        margin-left:3%;
+        color:grey;
+    }
+    .one h3{
+        margin-top:5%;
+    }
+    .one input{
+        width:60%;
+        height:20px;
+    }
+    .one .message{
+        height:60px;
+    }
+    .hey{
+        margin-top:5%;
+    }
+   button{
+        background-color:#4aaaa5;
+        padding:0.7em;
+        color:white;
+    }
+    .container2 .white1{
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .container2 .white1{
+        overflow:auto;
+        background-color:white;
+        width:85%;
+        height:80%;
+        margin:auto;
+        position: relative;
+        top:5%;
+    }
+    .white1 h2{
+        color:#4aaaab;
+        margin-left:3%;
+        margin-top:3%;
+    }
+    .white1 img{
+        width:90%;
+        margin-top:3%;
+        margin-left:2%;
+    }
+}
